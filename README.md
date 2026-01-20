@@ -2,57 +2,57 @@
 
 Time Guardian is a productivity and time-tracking mobile application built with Flutter and Supabase. It helps users monitor their focus time vs distraction time, build better habits, and stay accountable through clear statistics and motivational feedback.
 
-## 🚀 Features
+# 🚀 Features
 # 🔐 Authentication
 
-Email & password Login / Registration
+- Email & password Login / Registration
 
-Secure authentication using Supabase Auth
+- Secure authentication using Supabase Auth
 
-Persistent user sessions
+- Persistent user sessions
 
 # ⏱ Focus & Distraction Tracking
 
-Start a session with a real-time timer (HH:MM:SS)
+- Start a session with a real-time timer (HH:MM:SS)
 
-Sessions are saved using accurate timestamps
+- Sessions are saved using accurate timestamps
 
-Automatic calculation based on start and end time
+- Automatic calculation based on start and end time
 
 # 📊 Statistics Dashboard
 
-Today’s focus time
+- Today’s focus time
 
-Today’s distraction time
+- Today’s distraction time
 
-Total lifetime focus & distraction
+- Total lifetime focus & distraction
 
-Smart feedback messages:
+- Smart feedback messages:
 
-“You are doing great today”
+-- “You are doing great today”
 
-“You are not up to the mark”
+-- “You are not up to the mark”
 
 # 👤 Profile Management
 
-Update username, age, bio, country, phone, gender
+- Update username, age, bio, country, phone, gender
 
-Upload profile avatar using Supabase Storage
+- Upload profile avatar using Supabase Storage
 
-Profile data securely stored in database
+- Profile data securely stored in database
 
 # 📚 Study & Time Management Tips
 
-Curated productivity resources
+- Curated productivity resources
 
-Topics include:
+- Topics include:
 
-Time blocking
+- Time blocking
 
-Deep work
+- Deep work
 
-Pomodoro technique
+- Pomodoro technique
 
-Avoiding multitasking
+- Avoiding multitasking
 
-External links open safely in browser
+- External links open safely in browser
